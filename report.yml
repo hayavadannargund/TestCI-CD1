@@ -1,13 +1,13 @@
-name: John Doegi
+name: Hayavadan Nargund
 age: 30
-city: New York
+city: Bangalore
 is_student: true
 grade:
  - subject: Math
-   grade: d
+   grade: A
  - subject: English
-   grade: d
+   grade: A
  - subject: Science
-   grade: d 
+   grade: A 
    
 
