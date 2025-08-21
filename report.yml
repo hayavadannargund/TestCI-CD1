@@ -4,10 +4,10 @@ city: Bangalore
 is_student: true
 grade:
  - subject: Math
-   grade: A
+   grade: D
  - subject: English
-   grade: A
+   grade: D
  - subject: Science
-   grade: A 
+   grade: D
    
 
