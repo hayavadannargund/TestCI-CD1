@@ -1,13 +1,13 @@
 name: Hayavadan Nargund
-age: 30
+age: 43
 city: Bangalore
 is_student: true
 grade:
  - subject: Math
-   grade: D
+   grade: A
  - subject: English
-   grade: D
+   grade: A
  - subject: Science
-   grade: D
+   grade: A
    
 
